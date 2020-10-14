@@ -12,8 +12,6 @@ import org.mybatis.generator.internal.util.StringUtility;
 import java.util.Properties;
 
 /**
- * @Author: zhoutao
- * @Date: 2019/10/29
  **/
 public class CommentGenerator extends DefaultCommentGenerator {
 
