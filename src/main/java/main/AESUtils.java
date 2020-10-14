@@ -62,5 +62,6 @@ public class AESUtils {
 //        System.out.println("cardNo:"+util.encryptData("1234")); // 加密  
         System.out.println(util.decryptData("VjOK0w7fKc7txS77+UU08mbC+aafONaRncw37QBgx/z2GIKDskVJsogc33CzUC8DdZvgY+hjj4CGRb20mu6rN9IKWfRMmCBlyIjQ9COhHPo5kDq+zAjIles0sJf8bwb5Gu6VCW1AZhG5z92KRuUP/k4kgI3Zh8lE12RjjbUhlbZJahcf1aCjokGT1Gepgj8Yq/kowJciWQYoOfRUAjO6tjDNHtJ5s0n1DtrYnGECLhom+8YpeFSssG/Jl+1gNqo2aDkv9KirQ8W1Wf34sg/D6wXCUpz680yvub1jfqnBFrq9PRRz06khedQgvjsvu5i7s6JEJYdU2hxS4Wzqhfcquw==")); // 解密
         System.out.println("mingmingmingzhumingzhu");
-    }  
+        System.out.println("mideameida");
+    }
 }  
